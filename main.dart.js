@@ -55066,7 +55066,7 @@ r.cU()
 s[11]=0.001
 s=p.x
 q=s.a
-r.qC(s.b.P(0,q.gq(q))*3.141592653589793*0.6)
+r.qC(s.b.P(0,q.gq(q))*3.141592653589793*0.45)
 r=A.pv(B.d5,p.f,r,!0)
 s=r}return s}}
 A.qP.prototype={
